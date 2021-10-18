@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Calk</string>
+    <string name="btn1">C</string>
+    <string name="btn2">(</string>
+    <string name="btn3">)</string>
+    <string name="btn4">*</string>
+    <string name="btn5">1</string>
+    <string name="btn6">2</string>
+    <string name="btn7">3</string>
+    <string name="btn8">/</string>
+    <string name="btn9">4</string>
+    <string name="btn10">5</string>
+    <string name="btn11">6</string>
+    <string name="btn12">+</string>
+    <string name="btn13">7</string>
+    <string name="btn14">8</string>
+    <string name="btn15">9</string>
+    <string name="btn16">-</string>
+    <string name="btn17">0</string>
+    <string name="btn18">.</string>
+    <string name="btn19">=</string>
+    <string name="btn20">DEL</string>
+
+    <string name="btn21">sin</string>
+    <string name="btn22">cos</string>
+    <string name="btn23">tag</string>
+    <string name="btn24">ctag</string>
+    <string name="btn25">^2</string>
+    <string name="btn26">\u221a</string>
+    <string name="btn27">!</string>
+    <string name="btn28">log</string>
+</resources>
